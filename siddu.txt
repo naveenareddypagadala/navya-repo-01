@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 Hi
+=======
+ihi
+>>>>>>> f4a6916 (siddu file added)
 hello
 how r u
 
